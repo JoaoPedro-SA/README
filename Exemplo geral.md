@@ -115,9 +115,11 @@ getData();
 
 reconhecimento
 
-<img style="border-radius: 100px;" src="giphy.webp" height="100px" width="100px">
-<img style="border-radius: 100px;" src="https://avatars.githubusercontent.com/u/155406322?v=4" height="100px" width="100px">
-<img style="border-radius: 100px;" src="giphy.webp" height="100px" width="100px">
+<div style="display: flex;" >
+    <img style="border-radius: 100px;" src="giphy.webp" height="100px" width="100px">
+    <img style="border-radius: 100px;" src="https://avatars.githubusercontent.com/u/155406322?v=4" height="100px" width="100px">
+    <img style="border-radius: 100px;" src="giphy.webp" height="100px" width="100px">
+</div>
 
 ## Contribuição
 
